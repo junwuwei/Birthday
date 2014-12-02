@@ -19,7 +19,7 @@ import java.util.Map;
 import android.widget.Toast;
 
 public class HttpUtils {
-
+//工具类
 	// 请求服务器端的url
 	private static String PATH = "http://192.168.1.105:8080/http//servlet/LoginAction";
 	private static URL url;
